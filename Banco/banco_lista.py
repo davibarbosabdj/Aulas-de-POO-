@@ -10,7 +10,7 @@ class Bancolista:
     def procurar_conta(self, numero):
         i = 0
         achou = False
-        while achou is false and i < self.indice:
+        while achou is False and i < self.indice:
             if self.contas[i].get_numero() == numero:
                 achou = True
             else:
@@ -56,7 +56,8 @@ class Bancolista:
 
 
     def render_juros(self, numero):
-        conta = self.procurar_conta(numero):
-         if conta
+        conta = self.procurar_conta(numero)
+        if conta:
+
 
 
