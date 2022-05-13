@@ -1,3 +1,5 @@
+# mudar todos os metodos com a manipulação de lista - aula 5
+
 class Bancolista:
     def __init__(self):
         self.contas = [None] * 100
